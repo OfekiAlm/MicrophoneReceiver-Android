@@ -32,7 +32,7 @@ public class MicrophoneBroadcastReceive extends BroadcastReceiver {
                         Toast.LENGTH_LONG).show();
 
                 //have to make a dialog pop up with ok message alert that microphone had inserted.
-                //Dialog crashes when application starts. Current pose is running OK so it's the final commit to assessment.
+                //Dialog crashes when application starts. Current pose is running OK, so it's the final commit to assessment.
             }
 
 
